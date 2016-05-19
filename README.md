@@ -17,6 +17,11 @@ Bot types:
 | !lo     | <Player Name> | List a player's ban and warning history |
 | !tklog  |               | Display the list of recent teamkills in the arena |
 
+### Pickup Bot
+
+| Command | Arguments     | Description |
+| ------- | ------------- | ----------- | 
+| !egi    |               | View debug-level bot state and game information|
 
 # OpenCore
 
